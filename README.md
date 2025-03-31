@@ -1,4 +1,4 @@
-# iGEM KU Leuven – Dry Lab
+# iGEM KU Leuven – Dry Lab 2025
 
 ## 🌱 Project Scope
 The Dry Lab aims to complement the Wet Lab by offering computational and bioinformatic support in genome analysis, antimicrobial peptide (AMP) modeling, and kill switch design. Our main focus this year is on *Phytophthora* species (spp.), their interaction with antifungal peptides, and engineering solutions for pathogen resistance in **cacao plants**.
