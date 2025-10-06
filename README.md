@@ -1,30 +1,12 @@
 # iGEM KU Leuven – Dry Lab 2025
 
 ## Our Project 
-The Dry Lab aims to complement the Wet Lab by offering computational and bioinformatic support in genome analysis, antimicrobial peptide (AMP) modeling, and kill switch design. Our main focus this year is on *Phytophthora* species (spp.), their interaction with antifungal peptides, and engineering solutions for pathogen resistance in **cacao plants**.
+The Dry Lab aims to complement the Wet Lab by offering computational and bioinformatic support in antimicrobial peptide (AMP) research, _Phythophtora_ species research, logic gate and kill switch design. Our main focus this year is on *Phytophthora* species (spp.), their interaction with AMPs and engineering solutions for pathogen resistance in **cacao plants**.
 
 ## Goals
 - Create a structured AMP database relevant to *Phytophthora* spp.
-- Perform comparative genomics and annotation across *Phytophthora* spp.
-- Simulate and model in silico kill switches (UV-based, engineered bacteria)
-- Support wet lab findings with computational insights and predictions
-
-## Tools & Resources
-- JupyterLab
-- KU Leuven HPC (VSC)
-- FungiDB, UniProt, BLAST, NCBI, Ensembl
-- GitLab for version control
-- OneDrive for backups
-
-## Repository Structure
-tbd
-README.md
-
-## Getting Started
-1. Clone the repository
-2. Ensure JupyterLab or VSC is installed
-3. Explore the notebooks folder
-4. Review data formats and preliminary analyses 
+- Create a structured *Phytophthora* spp database.
+- Build an agent-based model with NetLogo 
 
 ## Contributors
 The Dry Lab subteam of iGEM KU Leuven 2025
